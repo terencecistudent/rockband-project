@@ -68,9 +68,15 @@
 
     <section class="container-fluid content-container no-gutters">
         <div class="row">
+            <div class="col-12 mt-2 mb-5">
+                <h2 class="font-bold text-center"> Home </h2>
+            </div>
+        </div>
+
+        <div class="row">
             <div class="col-lg-6 section-column" id="border-right">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col">
                         <h3 class="section-heading capitalise">
                             <a href="media.html" class="font-black"><i class="fas fa-music" aria-hidden="true"></i>
                                  Music: </a>
@@ -91,41 +97,42 @@
 
             <div class="col-lg-6 section-column">
                 <div class="row">
-                    <div class="col">
+                    <div class="col-12">
                         <h3 class="capitalise" id="toursection-heading">
-                            <a href="#" class="font-black">
+                            <a href="shows.html" class="font-black">
                             <i class="tour-icon fa fa-globe-americas" aria-hidden="true"></i>
                              Upcoming Tour Dates: </a>
                         </h3>
                     </div>
                 </div>
-                <div class="row mt-5">
-                    <div class="col-10 col-sm-12 col-md-12" id="tour-content">
-                        <div class="d-flex justify-content-start mb-2">
-                            <div class="p-2 font-bold d-md-flex"> Las Vegas, Open Hall </div>
-                            <div class="p-2 d-md-flex"> 22nd June 2019 </div>
-                            <div class="p-2 d-md-flex"> 18.00hrs </div>
-                        </div>
-                        <div class="d-flex justify-content-start mt-1 mb-2">
-                            <div class="p-2 font-bold d-md-flex"> Texas, Big Theater Central </div>
-                            <div class="p-2 d-md-flex"> 27th June 2019 </div>
-                            <div class="p-2 d-md-flex"> 18.00hrs </div>
-                        </div>
-                        <div class="d-flex justify-content-start mt-1 mb-2">
-                            <div class="p-2 font-bold d-md-flex"> New York, Heather Place </div>
-                            <div class="p-2 d-md-flex"> 2nd July 2019 </div>
-                            <div class="p-2 d-md-flex"> 18.00hrs </div>
-                        </div>
-                        <div class="d-flex justify-content-start mt-1 mb-2">
-                            <div class="p-2 font-bold d-md-flex"> Florida, Mount Park </div>
-                            <div class="p-2 d-md-flex"> 8th July 2019 </div>
-                            <div class="p-2 d-md-flex"> 18.00hrs </div>
-                        </div>
-                        <div class="d-flex justify-content-start mt-1 mb-2">
-                            <div class="p-2 font-bold d-md-flex"> New Jersey, Zero Park </div>
-                            <div class="p-2 d-md-flex"> 11th July 2019 </div>
-                            <div class="p-2 d-md-flex"> 18.00hrs </div>
-                        </div>
+                <div class="row mt-2">
+                    <div class="col-11 mr-2">
+                        <table class="table table-hover table-responsive-sm">
+                            <thead class="thead-light">
+                                <tr>
+                                    <th scope="col" colspan="2">Location</th>
+                                    <th scope="col">Date</th>
+                                    <th scope="col">Time</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td colspan="2">Las Vegas, Open Hall</td>
+                                    <td>22nd June 2019</td>
+                                    <td>18.00hrs</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Texas, Big Theatre Central</td>
+                                    <td>27th June 2019</td>
+                                    <td>18.00hrs</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">New York, Heather Place</td>
+                                    <td>2nd July 2019</td>
+                                    <td>19.00hrs</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
             </div>
@@ -139,7 +146,7 @@
                     <div class="col">
                         <div class="d-flex justify-content-center">
                             <h3 class="section-heading capitalise">
-                                <a href="#" class="font-black"> 
+                                <a href="contact.html" class="font-black"> 
                                 <i class="fas fa-sign-in-alt" aria-hidden="true"></i>
                                 Subscribe: </a>
                             </h3>
@@ -148,10 +155,12 @@
                             <form class="section-column">
                                 <div class="form-group">
                                     <label for="email"> Email Address: </label>
-                                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+                                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email" required>
                                     <small id="emailHelp" class="form-text text-muted"> Bringing you the latest music and news. </small>
                                 </div>
-                                <button type="submit" class="btn btn-success">Submit</button>
+                                <div class="text-center">
+                                    <button type="submit" class="btn btn-success">Submit</button>
+                                </div>
                             </form>
                         </div>
 
