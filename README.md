@@ -20,15 +20,14 @@ section, a section telling the users that they are active on social media and so
 ## UX
 
 I have tried to create an easy to follow website with each of the sections well spaced out.  The website
-is for fans or potential fans and it is important that the layout is clear and the font is big for the
-user to read.  I have kept the font family the same all the way through for consistency and have used a small
-variety of font sizes such as headings so that users would not get confused.  
+is for fans or potential fans to showcase the band's music and availability to perform at special events and it is 
+important that the layout is clear and the font is big for theuser to read.  I have kept the font family the same all 
+the way through for consistency and have used a smallvariety of font sizes such as headings so that users would not get confused.  
 
 I have used Bootstrap 4 as a wireframe to create an effective layout for users to navigate around.  The navigational
-bar sits at the top with a dark background and white writing so it is easily seen.  This includes the navigational
-links to each page.  Whatever page is active, on the navigational bar, the name of that page should be coloured 
-white compared to the other four pages which are a grey colour.  The footer includes social icon links to the 
-Facebook, Twitter and YouTube pages.
+bar sits at the top with a dark background and white writing so it is easily seen (similiar to the footer).  The main body 
+colour is white as I want to overload and confuse users, making it user-friendly.  This includes the navigational links to each page.  Whatever page is active, on the navigational bar, the name of that page should be coloured white compared to the other four pages 
+which are a grey colour.  The footer includes social icon links to the Facebook, Twitter and YouTube pages.
 
 #### User Stories:
 
