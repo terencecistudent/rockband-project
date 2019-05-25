@@ -33,56 +33,56 @@ which are a grey colour.  The footer includes social icon links to the Facebook,
 
 ##### Implemented:
 
-* As a user, I would like to click on the 'Click Here' link in the callout section which takes me to the Contact page.  
-  __End User Goal:__ Hyperlink used which is linked to the Contact page.  
-  __End Business Goal:__ Easy navigation.
-  __Acceptance Criteria:__ When clicked on, should be directed to Contact page.  
-  __Measuremeant Of Success:__ _________ .
+1. As a user, I would like to click on the 'Click Here' link in the callout section which takes me to the Contact page.  
+* __End User Goal:__ Hyperlink used which is linked to the Contact page.  
+* __End Business Goal:__ Easy navigation.
+* __Acceptance Criteria:__ When clicked on, should be directed to Contact page.   
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like to control the volume when listening to an audio clip.  
-  __End User Goal:__ Control volume on the audio element.  
-  __End Business Goal:__ Effective running website.
-  __Acceptance Criteria:__ Audio clip to run using audio element and to change volume level.  
-  __Measuremeant Of Success:__ _________ .
+2. As a user, I would like to control the volume when listening to an audio clip.  
+* __End User Goal:__ Control volume on the audio element.  
+* __End Business Goal:__ Effective running website.
+* __Acceptance Criteria:__ Audio clip to run using audio element and to change volume level.  
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like to click on the social media icons to take me to their social media pages.  
-  __End User Goal:__ Hyperlinks used within icon images directing them the social media pages.
-  __End Business Goal:__ Social media fan base growth.  
-  __Acceptance Criteria:__ When clicked on, should be directed to social media pages.  
-  __Measuremeant Of Success:__ _________ .
+3. As a user, I would like to click on the social media icons to take me to their social media pages.  
+* __End User Goal:__ Hyperlinks used within icon images directing them the social media pages.
+* __End Business Goal:__ Social media fan base growth.  
+* __Acceptance Criteria:__ When clicked on, should be directed to social media pages.  
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like to view the music video on full screen.  
-  __End User Goal:__ Allow music video to go full screen.  
-  __End Business Goal:__ Better user satisfaction.  
-  __Acceptance Criteria:__ Music video to function properly and allow fullscreen.
-  __Measuremeant Of Success:__ _________ .
+4. As a user, I would like to view the music video on full screen.  
+* __End User Goal:__ Allow music video to go full screen.  
+* __End Business Goal:__ Better user satisfaction.  
+* __Acceptance Criteria:__ Music video to function properly and allow fullscreen.
+* __Measuremeant Of Success:__ _________ .
 
 
 ##### Not Implemented:
 
-* As a user, I would like more audio clips for a better user experience.  
-  __End User Goal:__ The ability to listen to more songs.  
-  __End Business Goal:__ Better user satisfaction.
-  __Acceptance Criteria:__ Adding more audio clips to the website.  
-  __Measuremeant Of Success:__ _________ .
+1. As a user, I would like more audio clips for a better user experience.  
+* __End User Goal:__ The ability to listen to more songs.  
+* __End Business Goal:__ Better user satisfaction.
+* __Acceptance Criteria:__ Adding more audio clips to the website.  
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like there to be a table showing the available dates and times to make a booking.
-  __End User Goal:__ Create a database showing availabe dates and times.  
-  __End Business Goal:__ Potentially more bookings.  
-  __Acceptance Criteria:__ Available every day after 18.00hrs.
-  __Measuremeant Of Success:__ _________ .
+2. As a user, I would like there to be a table showing the available dates and times to make a booking.
+* __End User Goal:__ Create a database showing availabe dates and times.  
+* __End Business Goal:__ Potentially more bookings.  
+* __Acceptance Criteria:__ Available every day after 18.00hrs.
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like The Monkees to be on more social media platforms such as Instagram as I don't use Facebook or Twitter.
-  __End User Goal:__ Create more social icon links to the band pages.  
-  __End Business Goal:__  Bigger target audience.
-  __Acceptance Criteria:__ The Monkees to be active on a wider range of social medias.  
-  __Measuremeant Of Success:__ _________ .
+3. As a user, I would like The Monkees to be on more social media platforms such as Instagram as I don't use Facebook or Twitter.
+* __End User Goal:__ Create more social icon links to the band pages.  
+* __End Business Goal:__  Bigger target audience.
+* __Acceptance Criteria:__ The Monkees to be active on a wider range of social medias.  
+* __Measuremeant Of Success:__ _________ .
 
-* As a user, I would like to watch more videos of the band for a better user experience.
-  __End User Goal:__ Add more video links to the website.  
-  __End Business Goal:__ Better user satisfaction.
-  __Acceptance Criteria:__ Permission from video providers such as YouTube to implement videos on this website. 
-  __Measuremeant Of Success:__ _________ .
+4. As a user, I would like to watch more videos of the band for a better user experience.
+* __End User Goal:__ Add more video links to the website.  
+* __End Business Goal:__ Better user satisfaction.
+* __Acceptance Criteria:__ Permission from video providers such as YouTube to implement videos on this website. 
+* __Measuremeant Of Success:__ _________ .
 
 
 ## Features 
