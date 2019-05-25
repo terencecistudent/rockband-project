@@ -37,7 +37,7 @@ Facebook, Twitter and YouTube pages.
 * As a user, I would like to click on the 'Click Here' link in the callout section which takes me to the Contact page.  
   __End User Goal:__ Hyperlink used which is linked to the Contact page.  
   __End Business Goal:__ Easy navigation.
-  __Acceptance Criteria:__ Example, <a href="contact.html"> Click Here </a>  
+  __Acceptance Criteria:__ When clicked on, should be directed to Contact page.  
   __Measuremeant Of Success:__ _________ .
 
 * As a user, I would like to control the volume when listening to an audio clip.  
@@ -49,7 +49,7 @@ Facebook, Twitter and YouTube pages.
 * As a user, I would like to click on the social media icons to take me to their social media pages.  
   __End User Goal:__ Hyperlinks used within icon images directing them the social media pages.
   __End Business Goal:__ Social media fan base growth.  
-  __Acceptance Criteria:__ Example, <a href="https/facebook.com" target="_blank"> Facebook Icon </a>  
+  __Acceptance Criteria:__ When clicked on, should be directed to social media pages.  
   __Measuremeant Of Success:__ _________ .
 
 * As a user, I would like to view the music video on full screen.  
