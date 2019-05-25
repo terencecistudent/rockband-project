@@ -2,11 +2,19 @@
 
 This website is for fans or potential fans of The Monkees who wish to know a bit more about this band
 and to also make bookings to perform as special events.  There are five pages on this website which are: 
-Home, Shows, Media, About and Contact.
+Home, Shows, Media, About and Contact. 
 
-Each page has a callout section and a subscribe section.  The reason behind this is to show that 
-The Monkees are availabe for bookings which has a link to the Contact page, and it is simple to subscribe 
-to get the latest news or offers about the band.
+* Home Page: Showcases a background image of the band underneath a callout section about the bands availability
+to play at special occasions (In all webpages).  Content shows a couple of audio clips and tour dates.  There is a subscription
+section, a section telling the users that they are active on social media and social media icons in the footer (In all webpages).
+
+* Shows Page: Shows tables of previous and upcoming tour dates.
+
+* Media Page: Section of audio clips, a video and album pictures.
+
+* About Page: Picture and small information about each band member.  Small number of facts about the band.
+
+* Contact Page: Contact Form.
 
 
 ## UX
@@ -39,7 +47,7 @@ Facebook, Twitter and YouTube pages.
   __Measuremeant Of Success:__ _________ .
 
 * As a user, I would like to click on the social media icons to take me to their social media pages.  
-  __End User Goal:__ Hyperlinks used within icon images directing them the social media pages.  
+  __End User Goal:__ Hyperlinks used within icon images directing them the social media pages.
   __End Business Goal:__ Social media fan base growth.  
   __Acceptance Criteria:__ Example, <a href="https/facebook.com" target="_blank"> Facebook Icon </a>  
   __Measuremeant Of Success:__ _________ .
