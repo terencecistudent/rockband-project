@@ -104,6 +104,7 @@ which are a grey colour.  The footer includes social icon links to the Facebook,
 
 ## Technologies Used:
 
+* **JustInMind Prototyper:** I used this software to create a 2D model wireframe of the website I planned to create.
 * **Bootstrap 4:** Wireframe used to create a simple and effective website for users of all ages.
 * **Cloud 9:** Command Line Interface to execute code and store files on Git.
 * **HTML:** Language used to enhance layout and design of website.
@@ -161,24 +162,35 @@ which are a grey colour.  The footer includes social icon links to the Facebook,
 
 ## Deployment:
 
-I used Cloud 9 to deploy my website onto the internet.
-I have used Git to save my files which I then pushed into Github.
+**I used Cloud 9 to deploy my website onto the internet.**
+1. Go to the Cloud 9 Sign In page "https://c9.io/login" or Cloud 9 Sign Up page "https://c9.io/signup".
 
+2.  Enter your Cloud 9 username or password to sign in, or sign up by entering email, username and password.
+
+3. Create a folder called "assets" and inside that folder, create four more folders called "audio", "css", "images" and "videos".
+
+4. Create .html files outside the "assets" folder and copy code into each correct file name, e.g. index.html would have the homepage code.
+
+5. At the top of the page, click run which will bring a link at the bottom of the page.  Click on that link and open in browser.
+
+**I have used Git to save my files which I then pushed into Github.**
 There are a few commands to doing this which are:
 
-1. First we create a repository by using: 
+1. First click "New Terminal" where the plus icon is beside the file names.  Or click ALT+T.
+
+2. First we create a repository by using: 
 Example: git init
 
-2. This is now waiting to be committed into Github.
+3. This is now waiting to be committed into Github.
 Example: git add index.html
 
-3. The code is then committed which includes leaving a message. 
+4. The code is then committed which includes leaving a message. 
 Example: git commit -m "index.html inital commit"
 
-4. Set a new remote by adding:
+5. Set a new remote by adding:
 Example: git remote add origin [URL]
 
-5. This pushes changes from the local repository into a remote repository.
+6. This pushes changes from the local repository into a remote repository.
 
 
 ## Credits:
